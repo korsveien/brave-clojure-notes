@@ -1,4 +1,4 @@
-(ns clojure-metaphysics)
+(ns atoms-watches-validators)
 
 ;;---------------------- Atoms ------------------------
 ;; A reference type for shared, synchronous, independent state.
@@ -123,7 +123,7 @@
 
 
 ;;---------------------- Refs ------------------------
-;; Refs are capable of handling synchronization between different identities
+;; Refs are capable of handling synchronization between different 'identities'
 
 
 
